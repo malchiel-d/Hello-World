@@ -7,10 +7,14 @@ this is p **bold**
 
 [Github](github.com)
 
-`let score = 10; 
+```javascript
+let score = 10; 
 score = score + 5;
 console.log("final score is" + score);
-`
+```
 
 
-`print("Hello")`
+```python
+print("Hello")
+```
+
